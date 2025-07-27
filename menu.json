@@ -1,132 +1,144 @@
 {
-  "menu": {
-    "cold_beverages": [
-      {
-        "name": "Iced Coffee",
-        "description": "Chilled coffee with a hint of sweetness, perfect for a warm day.",
-        "price": 180,
-        "image": "iced_coffee"
-      },
-      {
-        "name": "Lemonade",
-        "description": "Classic tangy and refreshing lemonade, freshly squeezed.",
-        "price": 120,
-        "image": "lemonade"
-      },
-      {
-        "name": "Mango Lassi",
-        "description": "A creamy and sweet Indian drink made with yogurt and fresh mango pulp.",
-        "price": 200,
-        "image": "mango_lassi"
-      },
-      {
-        "name": "Mojito",
-        "description": "Refreshing blend of mint, lime, sugar, and soda water.",
-        "price": 190,
-        "image": "mojito"
-      },
-      {
-        "name": "Cold Coffee with Ice Cream",
-        "description": "Blended cold coffee topped with a scoop of vanilla ice cream.",
-        "price": 220,
-        "image": "cold_coffee_ice_cream"
-      }
-    ],
-    "hot_beverages": [
-      {
-        "name": "Cappuccino",
-        "description": "Espresso with steamed milk and a deep layer of foam.",
-        "price": 150,
-        "image": "cappuccino"
-      },
-      {
-        "name": "Masala Chai",
-        "description": "Traditional Indian tea brewed with aromatic spices and milk.",
-        "price": 100,
-        "image": "masala_chai"
-      },
-      {
-        "name": "Hot Chocolate",
-        "description": "Rich and decadent hot chocolate, topped with whipped cream.",
-        "price": 170,
-        "image": "https://hot_chocolate"
-      },
-      {
-        "name": "Espresso",
-        "description": "A concentrated shot of rich, dark coffee.",
-        "price": 130,
-        "image": "espresso"
-      },
-      {
-        "name": "Green Tea",
-        "description": "Light and refreshing green tea, known for its health benefits.",
-        "price": 90,
-        "image": "green_tea"
-      }
-    ],
-    "food": [
-      {
-        "name": "Vegetable Biryani",
-        "description": "Aromatic basmati rice cooked with mixed vegetables and traditional Indian spices.",
-        "price": 280,
-        "image": "veg_biryani"
-      },
-      {
-        "name": "Paneer Tikka Masala",
-        "description": "Cubes of paneer (Indian cheese) cooked in a rich, creamy tomato gravy.",
-        "price": 320,
-        "image": "paneer_tikka_masala"
-      },
-      {
-        "name": "Chicken Sandwich",
-        "description": "Grilled chicken breast with fresh lettuce, tomato, and a special sauce, served on toasted bread.",
-        "price": 250,
-        "image": "chicken_sandwich"
-      },
-      {
-        "name": "Butter Chicken",
-        "description": "Tender chicken pieces simmered in a rich, buttery tomato gravy.",
-        "price": 350,
-        "image": "butter_chicken"
-      },
-      {
-        "name": "Veggie Burger",
-        "description": "A wholesome veggie patty with fresh vegetables and special sauce in a toasted bun.",
-        "price": 230,
-        "image": "veg_burger"
-      }
-    ],
-    "dessert": [
-      {
-        "name": "Gulab Jamun",
-        "description": "Deep-fried milk-solids dumplings soaked in a rose-flavored sugar syrup.",
-        "price": 90,
-        "image": "gulab_jamun"
-      },
-      {
-        "name": "Chocolate Brownie",
-        "description": "Warm, fudgy chocolate brownie, perfect with a scoop of vanilla ice cream.",
-        "price": 160,
-        "image": "chocolate_brownie"
-      },
-      {
-        "name": "Fruit Custard",
-        "description": "Creamy vanilla custard loaded with fresh seasonal fruits.",
-        "price": 140,
-        "image": "fruit_custard"
-      },
-      {
-        "name": "Ice Cream Sundae",
-        "description": "Multiple scoops of ice cream with various toppings, sauces, and whipped cream.",
-        "price": 210,
-        "image": "ice_cream_sundae"
-      },
-      {
-        "name": "Rasgulla",
-        "description": "Soft and spongy cheese dumplings soaked in a light sugar syrup.",
-        "price": 80,
-        "image": "rasgulla"
-      }
-    ]
-  }
+  "menu": [
+    {
+      "type": "cold_beverages",
+      "items": [
+        {
+          "name": "Iced Coffee",
+          "description": "Chilled coffee with a hint of sweetness, perfect for a warm day.",
+          "price": 180,
+          "image": "iced_coffee"
+        },
+        {
+          "name": "Lemonade",
+          "description": "Classic tangy and refreshing lemonade, freshly squeezed.",
+          "price": 120,
+          "image": "lemonade"
+        },
+        {
+          "name": "Mango Lassi",
+          "description": "A creamy and sweet Indian drink made with yogurt and fresh mango pulp.",
+          "price": 200,
+          "image": "mango_lassi"
+        },
+        {
+          "name": "Mojito",
+          "description": "Refreshing blend of mint, lime, sugar, and soda water.",
+          "price": 190,
+          "image": "mojito"
+        },
+        {
+          "name": "Cold Coffee with Ice Cream",
+          "description": "Blended cold coffee topped with a scoop of vanilla ice cream.",
+          "price": 220,
+          "image": "cold_coffee_ice_cream"
+        }
+      ]
+    },
+    {
+      "type": "hot_beverages",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk and a deep layer of foam.",
+          "price": 150,
+          "image": "cappuccino"
+        },
+        {
+          "name": "Masala Chai",
+          "description": "Traditional Indian tea brewed with aromatic spices and milk.",
+          "price": 100,
+          "image": "masala_chai"
+        },
+        {
+          "name": "Hot Chocolate",
+          "description": "Rich and decadent hot chocolate, topped with whipped cream.",
+          "price": 170,
+          "image": "https://hot_chocolate"
+        },
+        {
+          "name": "Espresso",
+          "description": "A concentrated shot of rich, dark coffee.",
+          "price": 130,
+          "image": "espresso"
+        },
+        {
+          "name": "Green Tea",
+          "description": "Light and refreshing green tea, known for its health benefits.",
+          "price": 90,
+          "image": "green_tea"
+        }
+      ]
+    },
+    {
+      "type": "food",
+      "items": [
+        {
+          "name": "Vegetable Biryani",
+          "description": "Aromatic basmati rice cooked with mixed vegetables and traditional Indian spices.",
+          "price": 280,
+          "image": "veg_biryani"
+        },
+        {
+          "name": "Paneer Tikka Masala",
+          "description": "Cubes of paneer (Indian cheese) cooked in a rich, creamy tomato gravy.",
+          "price": 320,
+          "image": "paneer_tikka_masala"
+        },
+        {
+          "name": "Chicken Sandwich",
+          "description": "Grilled chicken breast with fresh lettuce, tomato, and a special sauce, served on toasted bread.",
+          "price": 250,
+          "image": "chicken_sandwich"
+        },
+        {
+          "name": "Butter Chicken",
+          "description": "Tender chicken pieces simmered in a rich, buttery tomato gravy.",
+          "price": 350,
+          "image": "butter_chicken"
+        },
+        {
+          "name": "Veggie Burger",
+          "description": "A wholesome veggie patty with fresh vegetables and special sauce in a toasted bun.",
+          "price": 230,
+          "image": "veg_burger"
+        }
+      ]
+    },
+    {
+      "type": "dessert",
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "description": "Deep-fried milk-solids dumplings soaked in a rose-flavored sugar syrup.",
+          "price": 90,
+          "image": "gulab_jamun"
+        },
+        {
+          "name": "Chocolate Brownie",
+          "description": "Warm, fudgy chocolate brownie, perfect with a scoop of vanilla ice cream.",
+          "price": 160,
+          "image": "chocolate_brownie"
+        },
+        {
+          "name": "Fruit Custard",
+          "description": "Creamy vanilla custard loaded with fresh seasonal fruits.",
+          "price": 140,
+          "image": "fruit_custard"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "description": "Multiple scoops of ice cream with various toppings, sauces, and whipped cream.",
+          "price": 210,
+          "image": "ice_cream_sundae"
+        },
+        {
+          "name": "Rasgulla",
+          "description": "Soft and spongy cheese dumplings soaked in a light sugar syrup.",
+          "price": 80,
+          "image": "rasgulla"
+        }
+      ]
+    }
+  ]
 }
