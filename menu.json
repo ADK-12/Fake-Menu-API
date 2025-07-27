@@ -1,7 +1,7 @@
 {
   "menu": [
     {
-      "type": "cold_beverages",
+      "type": "Cold Beverages",
       "items": [
         {
           "name": "Iced Coffee",
@@ -32,11 +32,35 @@
           "description": "Blended cold coffee topped with a scoop of vanilla ice cream.",
           "price": 220,
           "image": "cold_coffee_ice_cream"
+        },
+        {
+          "name": "Peach Iced Tea",
+          "description": "Sweet and fruity iced tea with natural peach flavor, incredibly refreshing.",
+          "price": 160,
+          "image": "peach_iced_tea"
+        },
+        {
+          "name": "Strawberry Smoothie",
+          "description": "A creamy blend of fresh strawberries, yogurt, and a touch of honey.",
+          "price": 210,
+          "image": "strawberry_smoothie"
+        },
+        {
+          "name": "Blueberry Milkshake",
+          "description": "Thick and decadent milkshake made with real blueberries and vanilla ice cream.",
+          "price": 230,
+          "image": "blueberry_milkshake"
+        },
+        {
+          "name": "Watermelon Juice",
+          "description": "Freshly pressed watermelon juice, naturally sweet and hydrating.",
+          "price": 150,
+          "image": "watermelon_juice"
         }
       ]
     },
     {
-      "type": "hot_beverages",
+      "type": "Hot Beverages",
       "items": [
         {
           "name": "Cappuccino",
@@ -71,49 +95,31 @@
       ]
     },
     {
-      "type": "food",
+      "type": "Food",
       "items": [
-        {
-          "name": "Vegetable Biryani",
-          "description": "Aromatic basmati rice cooked with mixed vegetables and traditional Indian spices.",
-          "price": 280,
-          "image": "veg_biryani"
-        },
-        {
-          "name": "Paneer Tikka Masala",
-          "description": "Cubes of paneer (Indian cheese) cooked in a rich, creamy tomato gravy.",
-          "price": 320,
-          "image": "paneer_tikka_masala"
-        },
-        {
-          "name": "Chicken Sandwich",
-          "description": "Grilled chicken breast with fresh lettuce, tomato, and a special sauce, served on toasted bread.",
-          "price": 250,
-          "image": "chicken_sandwich"
-        },
-        {
-          "name": "Butter Chicken",
-          "description": "Tender chicken pieces simmered in a rich, buttery tomato gravy.",
-          "price": 350,
-          "image": "butter_chicken"
-        },
         {
           "name": "Veggie Burger",
           "description": "A wholesome veggie patty with fresh vegetables and special sauce in a toasted bun.",
           "price": 230,
           "image": "veg_burger"
+        },
+        {
+          "name": "Veg Sandwich",
+          "description": "A classic sandwich filled with fresh, crisp vegetables and a savory spread.",
+          "price": 180,
+          "image": "veg_sandwich"
+        },
+        {
+          "name": "Maggi",
+          "description": "Instant noodles cooked with a blend of spices and vegetables.",
+          "price": 90,
+          "image": "maggi"
         }
       ]
     },
     {
-      "type": "dessert",
+      "type": "Dessert",
       "items": [
-        {
-          "name": "Gulab Jamun",
-          "description": "Deep-fried milk-solids dumplings soaked in a rose-flavored sugar syrup.",
-          "price": 90,
-          "image": "gulab_jamun"
-        },
         {
           "name": "Chocolate Brownie",
           "description": "Warm, fudgy chocolate brownie, perfect with a scoop of vanilla ice cream.",
@@ -133,10 +139,16 @@
           "image": "ice_cream_sundae"
         },
         {
-          "name": "Rasgulla",
-          "description": "Soft and spongy cheese dumplings soaked in a light sugar syrup.",
-          "price": 80,
-          "image": "rasgulla"
+          "name": "Cheesecake",
+          "description": "Rich and creamy New York-style cheesecake with a graham cracker crust.",
+          "price": 250,
+          "image": "cheesecake"
+        },
+        {
+          "name": "Pancake Stack",
+          "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+          "price": 200,
+          "image": "pancake"
         }
       ]
     }
