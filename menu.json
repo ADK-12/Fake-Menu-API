@@ -7,7 +7,7 @@
           "name": "Iced Coffee",
           "description": "Chilled coffee with a hint of sweetness, perfect for a warm day.",
           "price": 180,
-          "image": "iced_coffee"
+          "image": "icedCoffee"
         },
         {
           "name": "Lemonade",
@@ -19,7 +19,7 @@
           "name": "Mango Lassi",
           "description": "A creamy and sweet Indian drink made with yogurt and fresh mango pulp.",
           "price": 200,
-          "image": "mango_lassi"
+          "image": "mangoLassi"
         },
         {
           "name": "Mojito",
@@ -31,31 +31,31 @@
           "name": "Cold Coffee with Ice Cream",
           "description": "Blended cold coffee topped with a scoop of vanilla ice cream.",
           "price": 220,
-          "image": "cold_coffee_ice_cream"
+          "image": "coldCoffeeIceCream"
         },
         {
           "name": "Peach Iced Tea",
           "description": "Sweet and fruity iced tea with natural peach flavor, incredibly refreshing.",
           "price": 160,
-          "image": "peach_iced_tea"
+          "image": "peachIcedTea"
         },
         {
           "name": "Strawberry Smoothie",
           "description": "A creamy blend of fresh strawberries, yogurt, and a touch of honey.",
           "price": 210,
-          "image": "strawberry_smoothie"
+          "image": "strawberrySmoothie"
         },
         {
           "name": "Blueberry Milkshake",
           "description": "Thick and decadent milkshake made with real blueberries and vanilla ice cream.",
           "price": 230,
-          "image": "blueberry_milkshake"
+          "image": "blueberryMilkshake"
         },
         {
           "name": "Watermelon Juice",
           "description": "Freshly pressed watermelon juice, naturally sweet and hydrating.",
           "price": 150,
-          "image": "watermelon_juice"
+          "image": "watermelonJuice"
         }
       ]
     },
@@ -72,13 +72,13 @@
           "name": "Masala Chai",
           "description": "Traditional Indian tea brewed with aromatic spices and milk.",
           "price": 100,
-          "image": "masala_chai"
+          "image": "masalaChai"
         },
         {
           "name": "Hot Chocolate",
           "description": "Rich and decadent hot chocolate, topped with whipped cream.",
           "price": 170,
-          "image": "https://hot_chocolate"
+          "image": "hotChocolate"
         },
         {
           "name": "Espresso",
@@ -90,7 +90,7 @@
           "name": "Green Tea",
           "description": "Light and refreshing green tea, known for its health benefits.",
           "price": 90,
-          "image": "green_tea"
+          "image": "greenTea"
         }
       ]
     },
@@ -101,13 +101,13 @@
           "name": "Veggie Burger",
           "description": "A wholesome veggie patty with fresh vegetables and special sauce in a toasted bun.",
           "price": 230,
-          "image": "veg_burger"
+          "image": "vegBurger"
         },
         {
           "name": "Veg Sandwich",
           "description": "A classic sandwich filled with fresh, crisp vegetables and a savory spread.",
           "price": 180,
-          "image": "veg_sandwich"
+          "image": "vegSandwich"
         },
         {
           "name": "Maggi",
@@ -124,19 +124,19 @@
           "name": "Chocolate Brownie",
           "description": "Warm, fudgy chocolate brownie, perfect with a scoop of vanilla ice cream.",
           "price": 160,
-          "image": "chocolate_brownie"
+          "image": "chocolateBrownie"
         },
         {
           "name": "Fruit Custard",
           "description": "Creamy vanilla custard loaded with fresh seasonal fruits.",
           "price": 140,
-          "image": "fruit_custard"
+          "image": "fruitCustard"
         },
         {
           "name": "Ice Cream Sundae",
           "description": "Multiple scoops of ice cream with various toppings, sauces, and whipped cream.",
           "price": 210,
-          "image": "ice_cream_sundae"
+          "image": "iceCreamSundae"
         },
         {
           "name": "Cheesecake",
