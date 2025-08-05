@@ -55,7 +55,7 @@
           "name": "Watermelon Juice",
           "description": "Freshly pressed watermelon juice, naturally sweet and hydrating.",
           "price": 150,
-          "image": "whttps://adk-12.github.io/Food-Menu_API/images/blueberryMilkshake.png"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/watermelonJuice.png"
         }
       ]
     },
