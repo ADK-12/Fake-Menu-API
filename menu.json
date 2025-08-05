@@ -7,55 +7,55 @@
           "name": "Iced Coffee",
           "description": "Chilled coffee with a hint of sweetness, perfect for a warm day.",
           "price": 180,
-          "image": "icedCoffee"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Lemonade",
           "description": "Classic tangy and refreshing lemonade, freshly squeezed.",
           "price": 120,
-          "image": "lemonade"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Mango Lassi",
           "description": "A creamy and sweet Indian drink made with yogurt and fresh mango pulp.",
           "price": 200,
-          "image": "mangoLassi"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Mojito",
           "description": "Refreshing blend of mint, lime, sugar, and soda water.",
           "price": 190,
-          "image": "mojito"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Cold Coffee with Ice Cream",
           "description": "Blended cold coffee topped with a scoop of vanilla ice cream.",
           "price": 220,
-          "image": "coldCoffeeIceCream"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Peach Iced Tea",
           "description": "Sweet and fruity iced tea with natural peach flavor, incredibly refreshing.",
           "price": 160,
-          "image": "peachIcedTea"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Strawberry Smoothie",
           "description": "A creamy blend of fresh strawberries, yogurt, and a touch of honey.",
           "price": 210,
-          "image": "strawberrySmoothie"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Blueberry Milkshake",
           "description": "Thick and decadent milkshake made with real blueberries and vanilla ice cream.",
           "price": 230,
-          "image": "blueberryMilkshake"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Watermelon Juice",
           "description": "Freshly pressed watermelon juice, naturally sweet and hydrating.",
           "price": 150,
-          "image": "watermelonJuice"
+          "image": "whttps://adk-12.github.io/Food-Menu_API/images/"
         }
       ]
     },
@@ -66,31 +66,31 @@
           "name": "Cappuccino",
           "description": "Espresso with steamed milk and a deep layer of foam.",
           "price": 150,
-          "image": "cappuccino"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Masala Chai",
           "description": "Traditional Indian tea brewed with aromatic spices and milk.",
           "price": 100,
-          "image": "masalaChai"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Hot Chocolate",
           "description": "Rich and decadent hot chocolate, topped with whipped cream.",
           "price": 170,
-          "image": "hotChocolate"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Espresso",
           "description": "A concentrated shot of rich, dark coffee.",
           "price": 130,
-          "image": "espresso"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Green Tea",
           "description": "Light and refreshing green tea, known for its health benefits.",
           "price": 90,
-          "image": "greenTea"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         }
       ]
     },
@@ -101,19 +101,19 @@
           "name": "Veggie Burger",
           "description": "A wholesome veggie patty with fresh vegetables and special sauce in a toasted bun.",
           "price": 230,
-          "image": "vegBurger"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Veg Sandwich",
           "description": "A classic sandwich filled with fresh, crisp vegetables and a savory spread.",
           "price": 180,
-          "image": "vegSandwich"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Maggi",
           "description": "Instant noodles cooked with a blend of spices and vegetables.",
           "price": 90,
-          "image": "maggi"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         }
       ]
     },
@@ -124,31 +124,31 @@
           "name": "Chocolate Brownie",
           "description": "Warm, fudgy chocolate brownie, perfect with a scoop of vanilla ice cream.",
           "price": 160,
-          "image": "chocolateBrownie"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Fruit Custard",
           "description": "Creamy vanilla custard loaded with fresh seasonal fruits.",
           "price": 140,
-          "image": "fruitCustard"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Ice Cream Sundae",
           "description": "Multiple scoops of ice cream with various toppings, sauces, and whipped cream.",
           "price": 210,
-          "image": "iceCreamSundae"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Cheesecake",
           "description": "Rich and creamy New York-style cheesecake with a graham cracker crust.",
           "price": 250,
-          "image": "cheesecake"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         },
         {
           "name": "Pancake Stack",
           "description": "Fluffy pancakes served with maple syrup and fresh berries.",
           "price": 200,
-          "image": "pancake"
+          "image": "https://adk-12.github.io/Food-Menu_API/images/"
         }
       ]
     }
