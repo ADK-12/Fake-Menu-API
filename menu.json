@@ -1,7 +1,7 @@
 [
   {
     "type": "Cold Beverages",
-    "image": "https://adk-12.github.io/Food-Menu_API/images/icedCoffee.png",
+    "image": "https://adk-12.github.io/Food-Menu_API/images/coldBeverage.png",
     "items": [
       {
         "name": "Iced Coffee",
@@ -61,7 +61,7 @@
   },
   {
     "type": "Hot Beverages",
-    "image": "https://adk-12.github.io/Food-Menu_API/images/icedCoffee.png",
+    "image": "https://adk-12.github.io/Food-Menu_API/images/hotBeverage.png",
     "items": [
       {
         "name": "Cappuccino",
@@ -97,7 +97,7 @@
   },
   {
     "type": "Food",
-    "image": "https://adk-12.github.io/Food-Menu_API/images/icedCoffee.png",
+    "image": "https://adk-12.github.io/Food-Menu_API/images/food.png",
     "items": [
       {
         "name": "Veggie Burger",
@@ -121,7 +121,7 @@
   },
   {
     "type": "Dessert",
-    "image": "https://adk-12.github.io/Food-Menu_API/images/icedCoffee.png",
+    "image": "https://adk-12.github.io/Food-Menu_API/images/dessert.png",
     "items": [
       {
         "name": "Chocolate Brownie",
