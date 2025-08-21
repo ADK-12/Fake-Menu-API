@@ -2,160 +2,178 @@
   {
     "type": "Cold Beverages",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/coldBeverage.png",
-    "isCustomizable": true,
     "items": [
       {
         "name": "Iced Coffee",
         "description": "Chilled coffee with a hint of sweetness, perfect for a warm day.",
         "price": 180,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/icedCoffee.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/icedCoffee.png",
+        "isCustomizable": true
       },
       {
         "name": "Lemonade",
         "description": "Classic tangy and refreshing lemonade, freshly squeezed.",
         "price": 120,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/lemonade.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/lemonade.png",
+        "isCustomizable": true
       },
       {
         "name": "Mango Lassi",
         "description": "A creamy and sweet Indian drink made with yogurt and fresh mango pulp.",
         "price": 200,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/mangoLassi.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/mangoLassi.png",
+        "isCustomizable": true
       },
       {
         "name": "Mojito",
         "description": "Refreshing blend of mint, lime, sugar, and soda water.",
         "price": 190,      
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/mojito.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/mojito.png",
+        "isCustomizable": true
       },
       {
         "name": "Cold Coffee with Ice Cream",
         "description": "Blended cold coffee topped with a scoop of vanilla ice cream.",
         "price": 220,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/coldCoffee.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/coldCoffee.png",
+        "isCustomizable": true
       },
       {
         "name": "Peach Iced Tea",
         "description": "Sweet and fruity iced tea with natural peach flavor, incredibly refreshing.",
         "price": 160,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/icedTea.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/icedTea.png",
+        "isCustomizable": true
       },
       {
         "name": "Strawberry Smoothie",
         "description": "A creamy blend of fresh strawberries, yogurt, and a touch of honey.",
         "price": 210,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/strawberrySmoothie.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/strawberrySmoothie.png",
+        "isCustomizable": true
       },
       {
         "name": "Blueberry Milkshake",
         "description": "Thick and decadent milkshake made with real blueberries and vanilla ice cream.",
         "price": 230,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/blueberryMilkshake.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/blueberryMilkshake.png",
+        "isCustomizable": true
       },
       {
         "name": "Watermelon Juice",
         "description": "Freshly pressed watermelon juice, naturally sweet and hydrating.",
         "price": 150,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/watermelonJuice.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/watermelonJuice.png",
+        "isCustomizable": true
       }
     ]
   },
   {
     "type": "Hot Beverages",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/hotBeverage.png",
-    "isCustomizable": true,
     "items": [
       {
         "name": "Cappuccino",
         "description": "Espresso with steamed milk and a deep layer of foam.",
         "price": 150,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/cappuccino.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/cappuccino.png",
+        "isCustomizable": true
       },
       {
         "name": "Masala Chai",
         "description": "Traditional Indian tea brewed with aromatic spices and milk.",
         "price": 100,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/chai.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/chai.png",
+        "isCustomizable": true
       },
       {
         "name": "Hot Chocolate",
         "description": "Rich and decadent hot chocolate, topped with whipped cream.",
         "price": 170,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/hotChocolate.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/hotChocolate.png",
+        "isCustomizable": true
       },
       {
         "name": "Espresso",
         "description": "A concentrated shot of rich, dark coffee.",
         "price": 130,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/espresso.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/espresso.png",
+        "isCustomizable": true
       },
       {
         "name": "Green Tea",
         "description": "Light and refreshing green tea, known for its health benefits.",
         "price": 90,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/greenTea.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/greenTea.png",
+        "isCustomizable": true
       }
     ]
   },
   {
     "type": "Food",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/food.png",
-    "isCustomizable": false,
     "items": [
       {
         "name": "Veggie Burger",
         "description": "A wholesome veggie patty with fresh vegetables and special sauce in a toasted bun.",
         "price": 230,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/burger.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/burger.png",
+        "isCustomizable": false
       },
       {
         "name": "Veg Sandwich",
         "description": "A classic sandwich filled with fresh, crisp vegetables and a savory spread.",
         "price": 180,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/sandwich.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/sandwich.png",
+        "isCustomizable": false
       },
       {
         "name": "Maggi",
         "description": "Instant noodles cooked with a blend of spices and vegetables.",
         "price": 90,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/maggi.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/maggi.png",
+        "isCustomizable": false
       }
     ]
   },
   {
     "type": "Dessert",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/dessert.png",
-    "isCustomizable": false,
     "items": [
       {
         "name": "Chocolate Brownie",
         "description": "Warm, fudgy chocolate brownie, perfect with a scoop of vanilla ice cream.",
         "price": 160,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/brownie.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/brownie.png",
+        "isCustomizable": false
       },
       {
         "name": "Fruit Custard",
         "description": "Creamy vanilla custard loaded with fresh seasonal fruits.",
         "price": 140,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/fruitCustard.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/fruitCustard.png",
+        "isCustomizable": false
       },
       {
         "name": "Ice Cream Sundae",
         "description": "Multiple scoops of ice cream with various toppings, sauces, and whipped cream.",
         "price": 210,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/iceCream.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/iceCream.png",
+        "isCustomizable": false
       },
       {
         "name": "Cheesecake",
         "description": "Rich and creamy New York-style cheesecake with a graham cracker crust.",
         "price": 250,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/cheesecake.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/cheesecake.png",
+        "isCustomizable": false
       },
       {
         "name": "Pancake Stack",
         "description": "Fluffy pancakes served with maple syrup and fresh berries.",
         "price": 200,
-        "image": "https://adk-12.github.io/Fake-Menu-API/images/pancake.png"
+        "image": "https://adk-12.github.io/Fake-Menu-API/images/pancake.png",
+        "isCustomizable": false
       }
     ]
   }
