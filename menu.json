@@ -2,6 +2,7 @@
   {
     "type": "Cold Beverages",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/coldBeverage.png",
+    "isCustomizable": true,
     "items": [
       {
         "name": "Iced Coffee",
@@ -62,6 +63,7 @@
   {
     "type": "Hot Beverages",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/hotBeverage.png",
+    "isCustomizable": true,
     "items": [
       {
         "name": "Cappuccino",
@@ -98,6 +100,7 @@
   {
     "type": "Food",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/food.png",
+    "isCustomizable": false,
     "items": [
       {
         "name": "Veggie Burger",
@@ -122,6 +125,7 @@
   {
     "type": "Dessert",
     "image": "https://adk-12.github.io/Fake-Menu-API/images/dessert.png",
+    "isCustomizable": false,
     "items": [
       {
         "name": "Chocolate Brownie",
